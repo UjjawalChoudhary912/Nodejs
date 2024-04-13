@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "My Node js Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UjjawalChoudhary912/Nodejs.git"
+  },
+  "keywords": [
+    "Code",
+    "Step",
+    "by",
+    "Step"
+  ],
+  "author": "Ujjawal Choudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UjjawalChoudhary912/Nodejs/issues"
+  },
+  "homepage": "https://github.com/UjjawalChoudhary912/Nodejs#readme",
+  "dependencies": {
+    "color": "^4.2.3",
+    "simple-node-logger": "^21.8.12"
+  }
+}
